@@ -19,5 +19,4 @@ describe("Ejercicios de Objetos - Parte II",function(){
 		it("Debe retornar la suma de los numeros que estan entre 1 y 10 incluídos.",function(){
 			assert.equal(55,ejercicio1(1,10));
 		});
-
-	});
+});
